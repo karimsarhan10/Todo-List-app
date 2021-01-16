@@ -1,4 +1,4 @@
 # Todo-List-app
 Simple todo list app
 
-![](todo.gif)
+![todos](todo.gif)
